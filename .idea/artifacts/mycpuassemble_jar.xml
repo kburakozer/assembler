@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mycpuassemble:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mycpuassemble_jar</output-path>
+    <root id="archive" name="mycpuassemble.jar">
+      <element id="module-output" name="mycpuassemble" />
+    </root>
+  </artifact>
+</component>
